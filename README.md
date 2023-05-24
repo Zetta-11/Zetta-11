@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zetta-11
-- 👀 I’m interested in Java, Spring
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Spring boot
 - 📫 How to reach me: 1) Email: klim.menkov@gmail.com
 
